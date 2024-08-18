@@ -5,4 +5,5 @@
   * [dlt-workshop homework](dlt-workshop/dlt.md)  
   * [homework # 03](03-vector-search/hw03.ipynb)  
   * [homework # 04](04-monitoring/hw04.ipynb)  
+  * [homework # 05](05-orchestration/hw05.ipynb)  
 
